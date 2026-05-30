@@ -1,4 +1,4 @@
-# Spyder TKL Solder Firmware with VIA
+# Improved Spyder TKL Solder Firmware with VIA
 
 ## Flashing Keyboard
 
@@ -7,11 +7,12 @@
 	 -    **Bootmagic reset**: Hold down the Esc key and plug in the keyboard.
 	 -    **Physical reset button**: Set the slide switch to  `BOOTLOADER`, then briefly press the button on the back of the PCB.
 	 -    **Keycode in layout**: Press the key mapped to  `QK_BOOT`  if it is available.
-3. Once in bootloader mode, click the "Flash" button in QMK toolbox.
+3. Once in bootloader mode, click the "Flash" button in QMK Toolbox.
 
 ## Upload Design File to VIA
 1. Go to [VIA](https://www.usevia.app/) and enable the  **Design** tab under settings.
 2. Upload the *via_definition.json* file in the Design tab.
 3. Pair keyboard to VIA.
+4. Done :)
 
-Indicator customisation for the Caps Locks and Scroll Lock should appear under the "INDICATORS" tab.
+Indicator customisation for the Caps Lock and Scroll Lock should appear under the "INDICATORS" tab.
