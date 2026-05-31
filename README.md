@@ -20,4 +20,4 @@ Indicator customisation for the Caps Lock and Scroll Lock should appear under th
 ## Notable Fixes
 - customisable colour and brightness of caps lock and scroll lock LEDs
 - main LED light effects will no longer effect caps lock and scroll lock LEDs
-- keyboard LEDs will turn off while computer is powered off or in sleep mode. Fix for useres who have BIOS setting enabled for USB power delivery in soft off state.
+- keyboard LEDs will turn off while computer is powered off or in sleep mode. Fix for users who have BIOS setting enabled for USB power delivery in soft off state.
